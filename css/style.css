@@ -154,6 +154,7 @@ body {
   background-position: center;
   background-size: 70px;
   background-repeat: no-repeat;
+  border-radius: 4px;
 }
 .advantudes-item:nth-child(2)::before {
   content: "";
@@ -166,6 +167,7 @@ body {
   background-position: center;
   background-size: 70px;
   background-repeat: no-repeat;
+  border-radius: 4px;
 }
 .advantudes-item:nth-child(3)::before {
   content: "";
@@ -178,6 +180,7 @@ body {
   background-position: center;
   background-size: 70px;
   background-repeat: no-repeat;
+  border-radius: 4px;
 }
 .advantudes-item:nth-child(4)::before {
   content: "";
@@ -190,6 +193,7 @@ body {
   background-position: center;
   background-size: 70px;
   background-repeat: no-repeat;
+  border-radius: 4px;
 }
 .advantudes-slogan {
   color: var(--max-text-color);
